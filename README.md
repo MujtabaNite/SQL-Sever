@@ -205,7 +205,7 @@ Enter query: SELECT * FROM course WHERE mid=80
 
 ## 🎓 Academic Context
 
-Developed across **Semesters 3–4** at BIIT Rawalpindi for:
+Developed across **Semester 2** at BIIT Rawalpindi for:
 - **Object-Oriented Programming** (OOP patterns, inheritance, encapsulation)
 - **Database Systems** (JDBC, relational schema, SQL fundamentals)
 
